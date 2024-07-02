@@ -1,0 +1,260 @@
+{
+    "public_identifier": "rahul-garg-627201b8",
+    "profile_pic_url": "https://media.licdn.com/dms/image/C5603AQHP9HPqdRj9zQ/profile-displayphoto-shrink_800_800/0/1516862124314?e=1725494400&v=beta&t=id51ly3W4QI0u9sIBXM6c3KBx0eXV_fnhSCwS4vi5NA",
+    "background_cover_image_url": null,
+    "first_name": "Rahul ",
+    "last_name": "Garg",
+    "full_name": "Rahul  Garg",
+    "follower_count": 170,
+    "occupation": "Senior applied data scientist at dunnhumby",
+    "headline": "Senior applied data scientist at dunnhumby",
+    "summary": "Data Science|  || Python || Machine learning || Hive||SQL||Power Bi",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Gurgaon",
+    "state": "Haryana",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "dunnhumby",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/dunnhumby/",
+            "company_facebook_profile_url": null,
+            "title": "Senior applied data scientist",
+            "description": null,
+            "location": "Gurugram, Haryana, India",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/dunnhumby/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240702%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240702T094443Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=e108026c16e7a77613c780d2726279b3536dd52aadc8420e7fa2d17d2d99895b"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2022
+            },
+            "company": "Optum Global Solutions",
+            "company_linkedin_profile_url": null,
+            "company_facebook_profile_url": null,
+            "title": "Associate data analyst",
+            "description": "Worked as an associate data analyst",
+            "location": "Gurgaon, India",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2019
+            },
+            "company": "Tata Consultancy Services",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tata-consultancy-services/",
+            "company_facebook_profile_url": null,
+            "title": "Assistant System Engineer",
+            "description": null,
+            "location": "New Delhi Area, India",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQGsGR9p4ikS5w/company-logo_400_400/0/1708946550425/tata_consultancy_services_logo?e=1727913600&v=beta&t=_hSt2u_1SLq1f0-Azk1G0fuOxx2KiD4uOeoMGp0SJtc"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2016
+            },
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Kurukshetra University",
+            "school_linkedin_profile_url": null,
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C510BAQFk-1FhZJmk9Q/company-logo_400_400/0/1631326620282?e=1727913600&v=beta&t=Zhi7VDmzDvMsvaozvBemx3LpIFPJ1lU2DnZ7OrSERKE",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2024
+            },
+            "ends_at": null,
+            "name": "Generative AI with Large Language Models",
+            "license_number": "4E8EHWBHMG77",
+            "display_source": "coursera.org",
+            "authority": null,
+            "url": "https://www.coursera.org/account/accomplishments/records/4E8EHWBHMG77"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": " Apache Spark (TM) SQL for Data Analysts",
+            "license_number": "9R3U3PCU32JG",
+            "display_source": "coursera.org",
+            "authority": "Coursera",
+            "url": "https://coursera.org/share/e14695c835d1cfad35f5cd799863b224"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Applied Plotting, Charting & Data Representation in Python",
+            "license_number": "XTTWAUPFCLW9",
+            "display_source": "coursera.org",
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/XTTWAUPFCLW9"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Introduction to Data Science in Python",
+            "license_number": "DMLEA4KUTCY4",
+            "display_source": "coursera.org",
+            "authority": null,
+            "url": "https://www.coursera.org/account/accomplishments/verify/DMLEA4KUTCY4"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": null,
+            "name": "AMCAT Certified Corporate Sales Manager",
+            "license_number": "1746174-266",
+            "display_source": "myamcat.com",
+            "authority": "Aspiring Minds",
+            "url": "https://www.myamcat.com/certificate/1746174/corporate-sales-manager/266"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2014
+            },
+            "ends_at": null,
+            "name": "AMCAT Certified Customer Service Specialist",
+            "license_number": "1746174-210",
+            "display_source": "myamcat.com",
+            "authority": "Aspiring Minds",
+            "url": "https://www.myamcat.com/certificate/1746174/customer-service-specialist/210"
+        }
+    ],
+    "connections": 169,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/parmeet-singh-pahwa-7159174a",
+            "name": "Parmeet Singh Pahwa",
+            "summary": "Senior Data Engineer at Dunnhumby",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/bharatshr14",
+            "name": "Bharat Sharma",
+            "summary": "Senior Applied Data Scientist at Dunnhumby",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nikkipatl",
+            "name": "Nikki Patel",
+            "summary": "Senior Applied Data Scientist at dunnhumby",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aniket-g-7308b73a",
+            "name": "Aniket G.",
+            "summary": "Data Analytics & Science | Dunnhumby | LBSIM",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/programmermanish",
+            "name": "Manish Singla",
+            "summary": "Lead Data Scientist | dunnhumby | BITS PILANI",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kishorek1",
+            "name": "Kishore K",
+            "summary": "Aspiring Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ismailparsa",
+            "name": "Ismail Parsa",
+            "summary": "With a data science expertise for over 25 years, I build data science products/commercial apps in marketing, sales, advertising, pricing, marketplace analytics, fraud, supply chain and operations management",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/geetanshu-singh-negi-677192191",
+            "name": "Geetanshu Singh Negi",
+            "summary": "System Engineer at TCS | Data Engineer | HackerRank 4 \u2b50 Coder in Python & SQL",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/abhishek-kunal-7688139",
+            "name": "Abhishek Kunal",
+            "summary": "Data Science Engineering Manager | Making big data accessible and actionable",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/charlotte-laguillaumy-b1845a172",
+            "name": "Charlotte Laguillaumy",
+            "summary": "Consultante Data",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
